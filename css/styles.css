@@ -1,0 +1,20 @@
+body{background-color: grey;}
+
+.about{}
+
+.date-time{background-color: #F6E962;}
+
+.location{background-color: #9CEE5E;}
+
+.map{}
+
+.direction{background-color: black;
+			color: white;}
+
+.subway{background-color: #f39c12;}
+
+.bus {background-color: #1abc9c;}
+
+.car{background-color: #9A7E3D;}
+
+.path{background-color: #bdc3c7;}
